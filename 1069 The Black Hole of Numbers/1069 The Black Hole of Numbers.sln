@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1069 The Black Hole of Numbers", "1069 The Black Hole of Numbers\1069 The Black Hole of Numbers.vcxproj", "{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Debug|x64.ActiveCfg = Debug|x64
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Debug|x64.Build.0 = Debug|x64
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Debug|x86.Build.0 = Debug|Win32
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Release|x64.ActiveCfg = Release|x64
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Release|x64.Build.0 = Release|x64
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Release|x86.ActiveCfg = Release|Win32
+		{5E3D0473-AD9C-43F2-9ED3-0118E385A5FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2957A55-7827-49F1-8C6F-5EED75FB7DAF}
+	EndGlobalSection
+EndGlobal
